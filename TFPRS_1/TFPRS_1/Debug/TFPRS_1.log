@@ -1,0 +1,6 @@
+﻿  TFPRS_1.cpp
+C:\Users\Ti\source\repos\TFPRS_1\TFPRS_1\TFPRS_1.cpp(252): warning C4715: 'Func_5_TemperatureTo': not all control paths return a value
+C:\Users\Ti\source\repos\TFPRS_1\TFPRS_1\TFPRS_1.cpp(194): warning C4715: 'Func_5_AreaTo': not all control paths return a value
+C:\Users\Ti\source\repos\TFPRS_1\TFPRS_1\TFPRS_1.cpp(136): warning C4715: 'Func_5_VolumeTo': not all control paths return a value
+C:\Users\Ti\source\repos\TFPRS_1\TFPRS_1\TFPRS_1.cpp(77): warning C4715: 'Func_5_lengthTo': not all control paths return a value
+  TFPRS_1.vcxproj -> C:\Users\Ti\source\repos\TFPRS_1\Debug\TFPRS_1.exe
